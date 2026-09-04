@@ -1,3 +1,3 @@
 name = "lucky-tee-paper-bot-github"
 main = "worker.js"
-compatibility_date = "2026-09-05"
+compatibility_date = "2026-09-04"
